@@ -35,4 +35,22 @@ h1 {
   color: white;
 }
 
-/*End code from https://www.w3schools.com/howto/howto_js_topnav.asp*/
+/* End code from https://www.w3schools.com/howto/howto_js_topnav.asp*/
+
+/* Contact form styles */
+#Message-box {
+  width: 500px;
+  height: 200px;
+  text-align: left;
+}
+
+.contact-input {
+  width: 300px;
+}
+
+#send-button {
+  /*width: 100px;
+  height: 50px;*/
+  float: left;
+  margin: 10px;
+}
