@@ -1,25 +1,25 @@
 body {
-  background-color: #3a753b;
+  background-color: #008cff;
   color: black;
 }
 
 h1 {
-  color: white;
+  color: #062a2d;
 }
 
 /* Code from https://www.w3schools.com/howto/howto_js_topnav.asp */
 .topnav {
-  background-color: #333;
+  background-color: #f8d5ad;
   overflow: hidden;
 }
 
 /* Style the links inside the navigation bar */
 .topnav a {
   float: left;
-  color: #f2f2f2;
+  color: #062a2d;
   text-align: center;
   padding: 14px 16px;
-  text-decoration: underline overline #3a753b 3px;
+  text-decoration: underline overline #1a008b 3px;
   font-size: 20px;
 }
 
